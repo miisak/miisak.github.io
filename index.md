@@ -4,21 +4,20 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# About me
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Hi, it's the author of this GitHub page. Enjoy the contents.
 
-## Header 2
+## Kube Bench
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+This provides a jump start for easy usage of the Kube Bench auditing tool from Aqua Sequrity, and demonstrates the installation process directly on the host.
+
+[Link to Kube Bench Basics](./another-page.html).
 
 ### Header 3
 
