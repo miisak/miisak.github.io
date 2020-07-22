@@ -15,7 +15,7 @@ Hi, it's the author of this GitHub page. Enjoy the contents.
 
 ## Kube Bench
 
-This provides a jump start for easy usage of the Kube Bench auditing tool from Aqua Sequrity, and demonstrates the installation process directly on the host.
+> This provides a jump start for easy usage of the Kube Bench auditing tool from Aqua Sequrity, and demonstrates the installation process directly on the host.
 
 [Link to Kube Bench Basics](./another-page.html).
 
